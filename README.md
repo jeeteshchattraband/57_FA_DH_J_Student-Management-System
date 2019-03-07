@@ -1,5 +1,9 @@
-# Angular 7 - Demo CRUD Application / Project for Beginners
+# Student management system having cloud integration and adding of key details about student progress and interests. Saving data of student progress in PDF format and hosting the whole site to cloud
+
 # Student Management
+
+# Angular 7 - Demo CRUD Application / Project for Beginners
+
 ### Created By [Sangwin Gawande](http://sangw.in)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.0.
