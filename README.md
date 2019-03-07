@@ -4,7 +4,7 @@
 
 # Angular 7 - Demo CRUD Application / Project for Beginners
 
-### Created By [Sangwin Gawande](http://sangw.in)
+### Created By Jeetesh Chattraband
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.0.
 
